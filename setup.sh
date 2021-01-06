@@ -9,8 +9,6 @@ sudo apt install python3 idle3
 sleep 3
 sudo apt install python3-netifaces
 sleep 3
-sudo apt-get upgrade
-sleep 3
 
 #go to folder
 cd /home/pi/IOT/iotset/
