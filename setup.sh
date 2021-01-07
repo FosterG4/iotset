@@ -21,3 +21,4 @@ sudo chmod +x x728.sh
 #start script
 sudo ./x728.sh
 sleep 3
+sudo sh /etc/x728pwr.sh
