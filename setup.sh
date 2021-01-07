@@ -15,7 +15,7 @@ sleep 3
 #create folder
 cd /home/pi/IOT/
 #get file bash
-wget https://github.com/geekworm-com/x728/blob/master/x728.sh
+wget https://raw.githubusercontent.com/geekworm-com/x728/master/x728.sh
 #change permission execute
 sudo chmod +x x728.sh
 #start script
