@@ -1,7 +1,9 @@
 \#!/bin/bash
 
 #change repo to local
-mv /etc/apt/sources.list /etc/apt/sources.list.old
+sudo mv /etc/apt/sources.list /etc/apt/sources.list.old
+cd /etc/apt/
+sudo wget https://raw.githubusercontent.com/FosterG4/iotset/main/sources.list
 
 sudo apt-get update
 sleep 3
