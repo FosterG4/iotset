@@ -12,10 +12,8 @@ sleep 3
 sudo apt-get upgrade
 sleep 3
 
-#create folder
-cd /home/pi/IOT/
-#get file bash
-wget https://raw.githubusercontent.com/geekworm-com/x728/master/x728.sh
+#go to folder
+cd /home/pi/IOT/iotset/
 #change permission execute
 sudo chmod +x x728.sh
 #start script
