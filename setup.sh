@@ -1,4 +1,7 @@
-#!/bin/bash
+\#!/bin/bash
+
+#change repo to local
+mv /etc/apt/sources.list /etc/apt/sources.list.old
 
 sudo apt-get update
 sleep 3
