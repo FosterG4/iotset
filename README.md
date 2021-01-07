@@ -1,6 +1,8 @@
 # iotsetup
 # iotset
 
+mkdir -p /home/pi/IOT/
+
 cd /home/pi/IOT/
 
 git clone https://github.com/FosterG4/iotset.git
