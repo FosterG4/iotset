@@ -18,8 +18,3 @@ sudo chmod +x x728.sh
 #start script
 sudo ./x728.sh
 sleep 3
-
-#test relay
-python3 /home/pi/IOT/cek-relay.py
-#test LCD
-python3 /home/pi/IOT/lcd.py
