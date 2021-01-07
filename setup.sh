@@ -1,5 +1,3 @@
-\#!/bin/bash
-
 #change repo to local
 sudo mv /etc/apt/sources.list /etc/apt/sources.list.old
 cd /etc/apt/
